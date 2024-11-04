@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi, my name is Fran! 👋
+
+I'm a **Software Developer** that loves to build and discover new things! 🚀
+
+- 🐍 Python / ⚡ JavaScript / 🟦 TypeScript / 💻 Bash / 🖼️ Vue / ⚛️ React / 🌐 Django / ⚙️ FastAPI
+- 🌐 Check out my website [xyvs.io](https://xyvs.io), inspired by **MacOS**!
+- 🔗 You can check out my self-hosted Git: [git.fran.jp.net](https://git.fran.jp.net/)
+- 🌱 I'm currently looking for new opportunities.
+- 🤖 I love playing with my own servers and self-host everything.
+- 🔄 I also have another GitHub account: [@xyvs](https://github.com/xyvs).
+- 📧 You can reach me at: [hello@xyvs.io](mailto:hello@xyvs.io)
 
 <!--
 **franrgb/franrgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
